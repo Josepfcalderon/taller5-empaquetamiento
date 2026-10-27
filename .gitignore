@@ -4,3 +4,8 @@ __pycache__/
 .tox/
 .venv/
 *.egg-info/
+
+# Archivos generados durante el empaquetamiento
+package-src/dist/
+package-src/build/
+package-src/model/trained/*.pkl
